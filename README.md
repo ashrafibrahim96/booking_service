@@ -4,6 +4,10 @@ A backend service for managing provider availability and appointment bookings.
 
 ## Setup Instructions
 
+### Node Version
+
+Ensure that you are using **Node.js version 18** or higher to run the application properly.
+
 ### 1. Clone the repository and set up environment variables
 
 Copy the example environment file:
